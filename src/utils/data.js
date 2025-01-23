@@ -1,5 +1,17 @@
 export const projectData = [
   {
+    title: "movie-app",
+    img: "/movie-app.png",
+    link: "https://movie-hj4cupeer-melkhateeb193s-projects.vercel.app/",
+    github: "https://github.com/melkhateeb193/movie-app",
+  },
+  {
+    title: "waeather-app",
+    img: "/waeather-app.png",
+    link: "https://melkhateeb193.github.io/weather-Board/",
+    github: "https://github.com/melkhateeb193/weather-Board",
+  },
+  {
     title: "To-DO-LIST ",
     img: "/9.jpg",
     link: "https://melkhateeb193.github.io/To-DO-LIST/",
